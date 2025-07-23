@@ -23,7 +23,7 @@
 
 - Go to [Python Downloads](https://www.python.org/downloads/) 
 - Download recent stable package of Python file for macOS and double click to install it
-- GO to terminal, and enter `python --version` to check the installation.
+- GO to terminal, and enter `python3 --version` to check the installation.
 
 ### 1. Install Python using Homebrew
 
@@ -37,7 +37,7 @@ brew install python
 ```
 - Verify the installation using `python3 --version`.
 
-### 1. Creating virtual environment
+### 2. Creating virtual environment
 - Navigate to your project directory
 ```bash
 cd path/to/your/project
